@@ -920,9 +920,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chestSlotGroup: {fileID: 1533249565}
-  noOfChestCanUnlock: 1
+  noOfChestCanUnlock: 3
   isChestTimerStarted: 0
-  noOfSlots: 4
+  noOfSlots: 8
   chestView: {fileID: 985725849, guid: 83100609d46496443b4502ab4b379a3a, type: 3}
   chestScriptableObjectList: {fileID: 11400000, guid: 6fbf1fe7fa573ae478df42d9dccb9566,
     type: 2}

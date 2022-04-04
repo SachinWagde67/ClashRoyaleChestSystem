@@ -1,7 +1,7 @@
 # Clash Royale Chest System
 Chest system similar to the clash royale game.
 
-# Implementation and Design Patterns Used
+## Implementation and Design Patterns Used
 - Used MVC pattern for making the chest system.
 - Fully customizable code architecture.
 - Used scriptable objects for storing chests data.

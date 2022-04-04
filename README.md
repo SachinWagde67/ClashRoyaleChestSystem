@@ -1,5 +1,5 @@
 # Clash Royale Chest System
-Chest system similar to the clash royale game.
+Flexible chest system similar to the clash royale game.
 
 ## Implementation and Design Patterns Used
 - Used MVC pattern for making the chest system.
